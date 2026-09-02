@@ -78,11 +78,6 @@ AWS • Terraform • Linux • IAM
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdeeshaJayendra&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdeeshaJayendra&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=UdeeshaJayendra&theme=transparent&hide_border=true" />
 </p>
 
