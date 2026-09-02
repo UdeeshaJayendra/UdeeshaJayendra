@@ -32,7 +32,7 @@ I'm a BICT Honours undergraduate with a strong interest in **DevOps, Cloud Engin
   <img src="https://skillicons.dev/icons?i=java,python,c,cs,javascript" />
 </p>
 
-**Java · Python · C · C# · JavaScript · SQL · Assembly**
+**Java · Python · C# · JavaScript · SQL
 
 ### Web Development
 
