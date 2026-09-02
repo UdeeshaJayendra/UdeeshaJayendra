@@ -20,10 +20,6 @@ I'm a BICT Honours undergraduate with a strong interest in **DevOps, Cloud Engin
 
 ### Networking
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,cisco" />
-</p>
-
 **TCP/IP · OSI Model · Routing & Switching · NAT · DHCP · DNS · SNMP · Wireshark · Cisco Packet Tracer**
 
 ### Programming
