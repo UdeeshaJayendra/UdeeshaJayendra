@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Hi, I'm Udeesha Jayendra 👋
+## Hi, I'm Udeesha Jayendra 
 
 **BICT Honours Undergraduate | Aspiring DevOps, Cloud & Network Engineer**
 
