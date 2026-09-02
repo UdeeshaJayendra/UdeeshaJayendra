@@ -29,10 +29,10 @@ I'm a BICT Honours undergraduate with a strong interest in **DevOps, Cloud Engin
 ### Programming
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript" />
 </p>
 
-**Java · Python · C# · JavaScript · SQL
+**Java · Python · C# · JavaScript 
 
 ### Web Development
 
@@ -45,10 +45,10 @@ I'm a BICT Honours undergraduate with a strong interest in **DevOps, Cloud Engin
 ### Infrastructure & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,bash,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-**Git · GitHub · Git Bash · Bash · VS Code · Postman**
+**Git · GitHub  · VS Code · Postman**
 
 ### Security & Monitoring
 
@@ -67,16 +67,16 @@ I'm currently focused on building practical skills in:
 
 ## Featured Projects
 
-🚀 Internal Developer Platform
+·  Internal Developer Platform
 AWS • Terraform • Kubernetes • Docker
 
-🔐 Network Security Monitoring
+·  Network Security Monitoring
 Networking • Wireshark • Security Monitoring
 
-⚙️ CI/CD Pipeline
+·  CI/CD Pipeline
 GitHub Actions • Docker • Automated Deployment
 
-☁️ AWS Infrastructure
+·  AWS Infrastructure
 AWS • Terraform • Linux • IAM
 
 ## GitHub Statistics
@@ -102,7 +102,8 @@ AWS • Terraform • Linux • IAM
   </a>
 </p>
 
-📧 **Email:** [your-professional-email@example.com](mailto:your-professional-email@example.com)
+📧 **Email:** [rathnayakaudeesha@gmail.com](mailto:rathnayakaudeesha@gmail.com)
+
 
 <!--
 **UdeeshaJayendra/UdeeshaJayendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
